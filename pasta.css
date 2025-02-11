@@ -1,9 +1,21 @@
 
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-align: center;
+    background-color: darkslategray;
 }
 
+.card {
+    width: 500px;
+    margin: 20px auto;
+}
+
+.info {
+    border: 20px
+}
+.title {
+    border: 8px;
+    padding: 8px;
+}
 h1 {
     background-color: coral;
     color: black;
@@ -12,6 +24,7 @@ h1 {
 p {
     font-weight: 500;
     font-size: 20px;
+    color: white;
 }
 
 h2 {
@@ -22,8 +35,10 @@ h2 {
 ul {
     list-style-position: inside;
     font-size: 18px;
+    color: white;
 }
 
 ol {
     font-size: 18px;
+    color: white;
 }
