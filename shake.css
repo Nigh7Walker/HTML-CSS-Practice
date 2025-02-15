@@ -1,0 +1,33 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.card {
+    width: 500px;
+    margin: 10px auto;;
+}
+
+.info {
+    background-color: cadetblue;
+    border: 3px solid black;
+    padding: 4px;
+}
+.title {
+    background-color: aqua;
+    border: 2px solid white;
+    padding: 8px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+ul {
+    font-size: 18px;
+    font-weight: 400;
+}
+ol {
+    font-size: 18px;
+    font-weight: 400;
+}
