@@ -1,0 +1,40 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card {
+    width: 500px;
+    margin: 10px auto;
+}
+
+.title {
+    padding: 10px;
+    border: 2px;
+    background-color: salmon;
+}
+
+.info {
+    padding: 4px;
+    border: 2px solid royalblue;
+    background-color: burlywood;
+}
+
+p {
+    font-size: 24px;
+    font-weight: 400;
+}
+ul {
+    padding: 5px;
+    border: 2px solid blue;
+    background-color: burlywood;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+ol {
+    padding: 5px;
+    border: 2px solid blue;
+    background-color: burlywood;
+    font-size: 18px;
+    font-weight: 300;
+}
